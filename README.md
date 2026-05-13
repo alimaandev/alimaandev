@@ -46,6 +46,6 @@ GitHub-style 365-day contribution heatmap with streak counters and dark mode.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alishermaan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alimaandev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://alishermaan0319-afk.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://alimaandev.github.io/portfolio/)
 
 > 💼 **Open to remote roles** — Full-time · Contract · Part-time · $5,000/month
