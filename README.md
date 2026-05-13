@@ -6,7 +6,7 @@ I build production-grade web applications using modern tools and ship fast by le
 
 ---
 
-## 🚀 What I Built
+## 🚀 What I Build
 
 - **Full-Stack Web Apps** — Next.js, React, Node.js, Supabase, TypeScript
 - **AI-Powered Features** — OpenAI API integration, LLM workflows, prompt engineering
@@ -15,25 +15,21 @@ I build production-grade web applications using modern tools and ship fast by le
 ---
 
 ## 🛠️ Tech Stack
-
-```
 Languages     →  JavaScript (ES2024+)  TypeScript  Python  HTML5  CSS3
 Frontend      →  Next.js 14  React.js  Tailwind CSS  Mobile-First UI
-Backend       →  Node.js  REST APIs,  GraphQL
-Databases     →  Supabase (PostgreSQL)  SQL, MongoDB
+Backend       →  Node.js  REST APIs  GraphQL
+Databases     →  Supabase (PostgreSQL)  SQL  MongoDB
 AI Tools      →  OpenAI API  GitHub Copilot  Cursor AI  v0 by Vercel
 Infra & Tools →  Git  GitHub  Vercel  VS Code  Postman
-```
-
 ---
 
 ## 📦 Featured Projects
 
 ### 🔹 [Subscription & Debt Tracker](https://v0-subscription-debt-manager.vercel.app/)
-Full-stack, SaaS-style dashboard for tracking subscriptions and debts in real time.
+Full-stack SaaS-style dashboard for tracking subscriptions and debts in real time.
 `Next.js 14` · `Supabase` · `TypeScript` · `Tailwind CSS`
 
-### 🔹 Habit Tracker *(https://habit-tracker-tau-five-54.vercel.app/)
+### 🔹 [Habit Tracker](https://habit-tracker-tau-five-54.vercel.app/)
 GitHub-style 365-day contribution heatmap with streak counters and dark mode.
 `Next.js 14` · `React` · `TypeScript` · `date-fns` · `Tailwind CSS`
 
