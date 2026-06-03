@@ -35,13 +35,6 @@ GitHub-style 365-day contribution heatmap with streak counters and dark mode.
 
 ---
 
-## 📈 GitHub Stats
-
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alishermaan0319-afk&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alishermaan0319-afk&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alishermaan)
