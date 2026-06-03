@@ -16,10 +16,15 @@ I build production-grade web applications using modern tools and ship fast by le
 
 ## Tech Stack
 Languages     →  JavaScript (ES2024+)  TypeScript  Python  HTML5  CSS3
+
 Frontend      →  Next.js 14  React.js  Tailwind CSS  Mobile-First UI
+
 Backend       →  Node.js  REST APIs  GraphQL
+
 Databases     →  Supabase (PostgreSQL)  SQL  MongoDB
+
 AI Tools      →  OpenAI API  GitHub Copilot  Cursor AI  v0 by Vercel
+
 Infra & Tools →  Git  GitHub  Vercel  VS Code  Postman
 ---
 
