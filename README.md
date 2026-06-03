@@ -1,4 +1,4 @@
-# Hi, I'm Ali Sher 👋
+# Hi, I'm Ali Sher
 
 **Full-Stack Developer** · AI Integration · Remote-Ready · Based in Karachi, Pakistan
 
@@ -6,7 +6,7 @@ I build production-grade web applications using modern tools and ship fast by le
 
 ---
 
-## 🚀 What I Build
+## What I Built
 
 - **Full-Stack Web Apps** — Next.js, React, Node.js, Supabase, TypeScript
 - **AI-Powered Features** — OpenAI API integration, LLM workflows, prompt engineering
@@ -14,7 +14,7 @@ I build production-grade web applications using modern tools and ship fast by le
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 Languages     →  JavaScript (ES2024+)  TypeScript  Python  HTML5  CSS3
 Frontend      →  Next.js 14  React.js  Tailwind CSS  Mobile-First UI
 Backend       →  Node.js  REST APIs  GraphQL
@@ -23,7 +23,7 @@ AI Tools      →  OpenAI API  GitHub Copilot  Cursor AI  v0 by Vercel
 Infra & Tools →  Git  GitHub  Vercel  VS Code  Postman
 ---
 
-## 📦 Featured Projects
+## Featured Projects
 
 ### 🔹 [Subscription & Debt Tracker](https://v0-subscription-debt-manager.vercel.app/)
 Full-stack SaaS-style dashboard for tracking subscriptions and debts in real time.
@@ -48,4 +48,4 @@ GitHub-style 365-day contribution heatmap with streak counters and dark mode.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alimaandev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://alimaandev.github.io/portfolio/)
 
-> 💼 **Open to remote roles** — Full-time · Contract · Part-time · $5,000/month
+> 💼 **Open to remote roles** — Full-time · Contract · Part-time
