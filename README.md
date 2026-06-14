@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m currently working on full-stack web apps and AI-powered tools<br>🤝 I’m looking to collaborate on coding, startup, and open-source projects<br>🫶 I’m looking for help with scaling ideas into real products<br>🌱 I’m currently learning Next.js, backend systems, and AI integration<br>💬 Ask me about web development, automation, and building with Node.js<br>⚡ Fun fact: I turn ideas into projects fast before they become just ideas<br>
+💻 I’m currently working on full-stack web apps and AI-powered SaaS tools<br>🤝 I’m looking to collaborate on coding, startup, and open-source projects<br>🫶 I’m looking for help with scaling ideas into real products<br>🌱 I’m currently learning Next.js, backend systems, and AI integration<br>💬 Ask me about web development, automation, and building with Node.js<br>⚡ Fun fact: I turn ideas into projects fast before they become just ideas<br>
 
 
 ## 🌐 Socials:
