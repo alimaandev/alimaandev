@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 🔭 I'm currently working on AI, SaaS & Software Engineering<br><br>👯 I'm looking to collaborate on AI and Open Source<br><br>🤝 I'm looking for help with System Design & Cloud<br><br>🌱 I'm currently learning Backend, Kubernetes & LLMs<br><br>💬 Ask me about Software Engineering, Next.js & AI<br><br>⚡ Fun fact: I build more than I binge.
 
 
