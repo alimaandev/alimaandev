@@ -14,35 +14,40 @@ I am a Software Engineer focused on building high-availability SaaS platforms, d
 
 ---
 
-### 🛠️ Core Stack & Infrastructure
+### 🏗️ Architecture & Infrastructure Stack
 
-*I don't just use tools; I select them based on scale, concurrency, and system constraints.*
+**Compute & Concurrency**
+*High-throughput runtimes, event-driven architectures, and distributed systems.*
+![HTML5](https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6)
+![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=node.js&logoColor=339933)
+![Python](https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=3776AB)
+![Bun](https://img.shields.io/badge/Bun-18181B?style=flat-square&logo=bun&logoColor=FBF0DF)
 
-**Languages & Runtimes**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Erlang](https://img.shields.io/badge/Erlang-A90533?style=flat&logo=erlang&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
 
-**Architecture & Distributed Systems**
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+**Persistence & Event Streaming**
+*Relational ACID compliance, in-memory caching, and distributed message brokers.*
+![MongoDB](https://img.shields.io/badge/MongoDB-18181B?style=flat-square&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-18181B?style=flat-square&logo=redis&logoColor=DC382D)
+![Supabase](https://img.shields.io/badge/Supabase-18181B?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![SQLite](https://img.shields.io/badge/SQLite-18181B?style=flat-square&logo=sqlite&logoColor=003B57)
 
-**AI & Modern Frontend**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
-**Cloud & Observability**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
+
+**Orchestration & Control Plane**
+*Infrastructure as Code (IaC), container orchestration, and cloud networking.*
+![Docker](https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-18181B?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Google Cloud](https://img.shields.io/badge/GCP-18181B?style=flat-square&logo=googlecloud&logoColor=4285F4)
+
+**AI Infrastructure & Observability**
+*LLM orchestration, vector embeddings, SLO tracking, and distributed tracing.*
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-18181B?style=flat-square&logo=opentelemetry&logoColor=F5A800)
+![Datadog](https://img.shields.io/badge/Datadog-18181B?style=flat-square&logo=datadog&logoColor=632CA6)
+![Next.js](https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=next.js&logoColor=FFFFFF)
 
 ---
 
