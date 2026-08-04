@@ -14,45 +14,24 @@ I am a Software Engineer focused on architecting high-availability distributed s
 
 ---
 
-### 🧰 Architecture & Infrastructure Stack
+### 🏛️ Core Architecture & Tooling
+
+I select technologies based on system constraints, concurrency requirements, and long-term maintainability. 
 
 **Compute & Distributed Systems**
-*High-throughput runtimes, concurrent processing, and type-safe application logic.*
-![Erlang/OTP](https://img.shields.io/badge/Erlang%2FOTP-18181B?style=flat-square&logo=erlang&logoColor=A90533)
-![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6)
-![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=node.js&logoColor=339933)
-![Python](https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=3776AB)
-![Bun](https://img.shields.io/badge/Bun-18181B?style=flat-square&logo=bun&logoColor=FBF0DF)
-
-**Frontend & Interface Engineering**
-*Modern web standards, component-driven architecture, and server-side rendering.*
-![Next.js](https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=next.js&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=1572B6)
+Leveraging **Erlang/OTP** for fault-tolerant, high-concurrency message routing, alongside **TypeScript** and **Node.js/Bun** for type-safe, I/O-bound microservices. **Python** is reserved for data pipelines and AI inference wrappers.
 
 **Persistence & Data Mesh**
-*Relational ACID compliance, in-memory caching, and edge-state management.*
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Redis](https://img.shields.io/badge/Redis-18181B?style=flat-square&logo=redis&logoColor=DC382D)
-![MongoDB](https://img.shields.io/badge/MongoDB-18181B?style=flat-square&logo=mongodb&logoColor=47A248)
-![Supabase](https://img.shields.io/badge/Supabase-18181B?style=flat-square&logo=supabase&logoColor=3ECF8E)
-![SQLite](https://img.shields.io/badge/SQLite-18181B?style=flat-square&logo=sqlite&logoColor=003B57)
+Defaulting to **PostgreSQL** for complex relational ACID compliance, augmented by **Redis** for sub-millisecond caching and rate limiting. Utilizing **SQLite** for edge-compute scenarios and **Supabase** for rapid, real-time BaaS prototyping.
 
-**Orchestration & Cloud Native**
-*Infrastructure as Code (IaC), containerization, and scalable cloud networking.*
-![Kubernetes](https://img.shields.io/badge/Kubernetes-18181B?style=flat-square&logo=kubernetes&logoColor=326CE5)
-![Docker](https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-18181B?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Google Cloud](https://img.shields.io/badge/GCP-18181B?style=flat-square&logo=googlecloud&logoColor=4285F4)
+**Cloud Native & Orchestration**
+Designing self-healing, multi-region topologies using **Kubernetes** and **Docker**. Infrastructure is provisioned declaratively across **AWS** and **GCP**, prioritizing immutable deployments and automated scaling.
 
 **Observability & AI Ops**
-*Distributed tracing, SLO monitoring, and LLM orchestration.*
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-18181B?style=flat-square&logo=opentelemetry&logoColor=F5A800)
-![Datadog](https://img.shields.io/badge/Datadog-18181B?style=flat-square&logo=datadog&logoColor=632CA6)
-![LangChain](https://img.shields.io/badge/LangChain-18181B?style=flat-square&logo=langchain&logoColor=1C3C3C)
+Enforcing strict SLOs via **Datadog** and **OpenTelemetry** for end-to-end distributed tracing. Architecting low-latency RAG pipelines and agentic workflows using **LangChain** and modern vector databases.
 
 ---
+
 
 ### 📊 Engineering Metrics
 
@@ -75,15 +54,6 @@ I am a Software Engineer focused on architecting high-availability distributed s
 
 ---
 
-### 📈 Engineering Consistency
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alimaandev&theme=tokyonight" alt="Profile Details" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alimaandev&theme=tokyonight" alt="Top Commit Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alimaandev&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
 ### 🌐 Connect
 
