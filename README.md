@@ -49,10 +49,6 @@ I am a Software Engineer focused on building high-availability SaaS platforms, d
 ![Datadog](https://img.shields.io/badge/Datadog-18181B?style=flat-square&logo=datadog&logoColor=632CA6)
 ![Next.js](https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=next.js&logoColor=FFFFFF)
 
----
-
-### ✍️ Quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
@@ -63,6 +59,9 @@ I am a Software Engineer focused on building high-availability SaaS platforms, d
 
 
 ---
+
+### ✍️ Quotes
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🌐 Connect
 
