@@ -75,6 +75,16 @@ I am a Software Engineer focused on architecting high-availability distributed s
 
 ---
 
+### 📈 Engineering Consistency
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alimaandev&theme=tokyonight" alt="Profile Details" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alimaandev&theme=tokyonight" alt="Top Commit Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alimaandev&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
 ### 🌐 Connect
 
 I am always open to discussing system design, open-source collaboration, and complex engineering challenges.
