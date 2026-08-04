@@ -51,17 +51,8 @@ I am a Software Engineer focused on building high-availability SaaS platforms, d
 
 ---
 
-### 📂 Featured Engineering
-
-<div align="center">
-  <!-- Replace the repo names below with your actual best repositories -->
-  <a href="https://github.com/alimaandev/Friday">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimaandev&repo=Friday&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="AI Project" />
-  </a>
-  <a href="https://github.com/alimaandev/vocoi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimaandev&repo=vocoi&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="SaaS Project" />
-  </a>
-</div>
+### ✍️ Quotes
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
