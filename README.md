@@ -68,16 +68,19 @@ I am a Software Engineer focused on building high-availability SaaS platforms, d
 ### 📊 Open Source Metrics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alimaandev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38B2AC&icon_color=38B2AC&rank_icon=github" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=alimaandev&theme=tokyonight&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" />
+  <!-- 1. Overall Stats -->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alimaandev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38B2AC&icon_color=38B2AC&rank_icon=github" alt="GitHub Stats" />
+  
+  <!-- 2. Commit Streak (Updated to reliable demolab.com host) -->
+  <img height="170em" src="https://streak-stats.demolab.com/?user=alimaandev&theme=tokyonight&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimaandev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38B2AC&langs_count=8" />
+  <!-- 3. Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimaandev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38B2AC&langs_count=8" alt="Top Languages" />
 </div>
-
 ---
 
 ### 🌐 Connect
