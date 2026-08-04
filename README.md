@@ -60,15 +60,14 @@ I am a Software Engineer focused on architecting high-availability distributed s
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=alimaandev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38B2AC&icon_color=38B2AC&rank_icon=github" alt="GitHub Stats" />
-      </td>
-      <td align="center">
         <img src="https://streak-stats.demolab.com/?user=alimaandev&theme=tokyonight&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimaandev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38B2AC&langs_count=8" alt="Top Languages" />
+        <img src="https://img.shields.io/badge/TypeScript-18181B?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
       </td>
     </tr>
   </table>
