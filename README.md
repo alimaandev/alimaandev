@@ -6,11 +6,19 @@
 
 I am a Software Engineer focused on architecting high-availability distributed systems, resilient backend infrastructure, and applied AI pipelines. My engineering cycles are spent translating complex scalability constraints into intuitive, high-throughput products.
 
-### ⚙️ Current Engineering Focus
-- **System Architecture:** Designing multi-tenant SaaS platforms, event-driven microservices, and fault-tolerant data meshes.
-- **AI/ML Infrastructure:** Architecting low-latency LLM inference pipelines, RAG (Retrieval-Augmented Generation) systems, and agentic workflows.
-- **Cloud & Orchestration:** Designing self-healing Kubernetes topologies, multi-region cloud architectures (AWS/GCP), and automated CI/CD pipelines.
-- **Open Source:** Contributing to core tooling and performance optimization in the Node.js and Python ecosystems.
+### 🎯 Strategic Engineering Focus
+
+**Distributed Systems & SaaS Architecture**  
+Architecting fault-tolerant, multi-tenant platforms using event-driven microservices and resilient data meshes to ensure horizontal scalability and sub-second latency.
+
+**AI Infrastructure & Agentic Workflows**  
+Building low-latency LLM inference pipelines and advanced RAG (Retrieval-Augmented Generation) systems. Focusing on optimizing token throughput and orchestrating complex agentic loops for production-grade AI applications.
+
+**Cloud-Native Orchestration & Reliability**  
+Designing self-healing Kubernetes topologies and multi-region cloud architectures (AWS/GCP). Implementing immutable infrastructure and automated CI/CD pipelines to achieve 99.99% system availability.
+
+**Open Source & Ecosystem Performance**  
+Contributing to core tooling within the Node.js and Python ecosystems, with a specific focus on runtime performance optimization, memory management, and developer experience (DX) improvements.
 
 ---
 
