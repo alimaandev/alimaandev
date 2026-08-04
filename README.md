@@ -14,7 +14,7 @@ I am a Software Engineer focused on building high-availability SaaS platforms, d
 
 ---
 
-### 🏗️ Architecture & Infrastructure Stack
+### 🧰 Architecture & Infrastructure Stack
 
 **Compute & Concurrency**
 *High-throughput runtimes, event-driven architectures, and distributed systems.*
@@ -55,11 +55,11 @@ I am a Software Engineer focused on building high-availability SaaS platforms, d
 
 <div align="center">
   <!-- Replace the repo names below with your actual best repositories -->
-  <a href="https://github.com/alimaandev/your-saas-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimaandev&repo=your-saas-repo&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="SaaS Project" />
+  <a href="https://github.com/alimaandev/Friday">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimaandev&repo=Friday&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="AI Project" />
   </a>
-  <a href="https://github.com/alimaandev/your-ai-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimaandev&repo=your-ai-repo&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="AI Project" />
+  <a href="https://github.com/alimaandev/vocoi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimaandev&repo=vocoi&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="SaaS Project" />
   </a>
 </div>
 
@@ -90,6 +90,12 @@ I am always open to discussing system design, open-source collaboration, and com
   </a>
   <a href="mailto:alimaandev@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://x.com/alimaandev">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://alimaandev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=code&logoColor=white" alt="Portfolio" />
   </a>
   <!-- Add your Twitter/X or Portfolio link here if you have one -->
 </div>
