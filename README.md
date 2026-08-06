@@ -14,13 +14,6 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=alimaandev&theme=aurora&style=jet&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=alimaandev&theme=aurora&style=jet&mode=dark" width="100%" alt="310 contributions in the last year" />
-  </picture>
-</p>
-
-<p align="center">
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=alimaandev&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=alimaandev&theme=aurora" width="100%" alt="Pinned projects" /></picture>
 </p>
 
