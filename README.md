@@ -2,10 +2,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&height=50&lines=Distributed+Systems+%7C+AI+Infrastructure+%7C+High-Scale+SaaS" alt="Typing SVG" />
 </div>
 
-
 <br/>
 
-I am a Software Engineer focused on architecting high-availability distributed systems, resilient backend infrastructure, and applied AI pipelines. My engineering cycles are spent translating complex scalability constraints into intuitive, high-throughput products.
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=alimaandev&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/system-scan?username=alimaandev&theme=aurora" width="100%" alt="ASCII profile scan" /></picture>
+</p>
+
+<hr />
+
+<p align="center">
+  <sub>Ali Sher · every panel is a single <code>&lt;img&gt;</code> of live GitHub data ·
+  built with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
+</p>
+
+
 
 ### 🎯 Strategic Engineering Focus
 
