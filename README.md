@@ -8,11 +8,6 @@
 
 <hr />
 
-<p align="center">
-  <sub>Ali Sher · every panel is a single <code>&lt;img&gt;</code> of live GitHub data ·
-  built with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
-</p>
-
 ### 🌐 Connect
 
 I am always open to discussing system design, open-source collaboration, and complex engineering challenges.
