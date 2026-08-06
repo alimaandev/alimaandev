@@ -1,9 +1,6 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&height=50&lines=Distributed+Systems+%7C+AI+Infrastructure+%7C+High-Scale+SaaS" alt="Typing SVG" />
-</div>
-
-<br/>
-
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=alimaandev&theme=aurora&label=Ali%20Sher&mode=light" /><img src="https://www.gitskins.com/api/section/wordmark?username=alimaandev&theme=aurora&label=Ali%20Sher" width="100%" alt="Ali Sher" /></picture>
+</p>
 
 <p align="center">
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=alimaandev&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/system-scan?username=alimaandev&theme=aurora" width="100%" alt="ASCII profile scan" /></picture>
@@ -15,6 +12,19 @@
   <sub>Ali Sher · every panel is a single <code>&lt;img&gt;</code> of live GitHub data ·
   built with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=alimaandev&theme=aurora&style=jet&mode=light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=alimaandev&theme=aurora&style=jet&mode=dark" width="100%" alt="310 contributions in the last year" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=alimaandev&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=alimaandev&theme=aurora" width="100%" alt="Pinned projects" /></picture>
+</p>
+
+
 
 
 
