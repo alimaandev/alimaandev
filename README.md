@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=alimaandev&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/system-scan?username=alimaandev&theme=aurora" width="100%" alt="ASCII profile scan" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/system-scan?username=alimaandev&theme=aurora&mode=dark" /><img src="https://www.gitskins.com/api/section/system-scan?username=alimaandev&theme=aurora" width="100%" alt="ASCII profile scan" /></picture>
 </p>
 
 <hr />
