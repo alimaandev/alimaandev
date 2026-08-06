@@ -13,10 +13,6 @@
   built with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
 </p>
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=alimaandev&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=alimaandev&theme=aurora" width="100%" alt="Pinned projects" /></picture>
-</p>
-
 ### 🌐 Connect
 
 I am always open to discussing system design, open-source collaboration, and complex engineering challenges.
