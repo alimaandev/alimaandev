@@ -2,6 +2,28 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&height=50&lines=Distributed+Systems+%7C+AI+Infrastructure+%7C+High-Scale+SaaS" alt="Typing SVG" />
 </div>
 
+                                        
+                                        
+                _ygmay_                 
+              y#~~~~ ~T\                
+              ^ _yy___                  
+               #=P@@@FFa                
+              4@@~@@L~~@                
+             a@@@@@@@@@@@>              
+              @@@@g@$@@@$               
+              `4@@$=s@@'                
+               .@@#PP5$                 
+            _yEy@@@sg@$4y               
+        _yg@@@F4@@@@@E'u@@$gy_          
+      a@@@@F9$$ ~4@@@P a@R@@@@@g        
+     $@@@@@ayf4       Vf~ `@@@@@@,      
+    $@@$^@@@@ @       4~:y@@Q9K"/%      
+   j@`1$.@@#B $L     u_ @$@FT4[' jl     
+   $@,_@_Q@Bl,4L     I!d@@F`'I[  `#     
+   @@$gy_yyyyT.F     L`dM__y'`'z '      
+  yy_"4@#@@RT" '     Mj) $5Ri*@F _ay    
+
+
 <br/>
 
 I am a Software Engineer focused on architecting high-availability distributed systems, resilient backend infrastructure, and applied AI pipelines. My engineering cycles are spent translating complex scalability constraints into intuitive, high-throughput products.
